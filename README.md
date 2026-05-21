@@ -18,30 +18,4 @@
 
 # 🧠 NEURAL SYSTEM PROFILE
 
-```python
-class NeuralAIEngineer:
 
-    def __init__(self):
-
-        self.identity = "Mohamed Tarek"
-        self.role = "AI Engineer | Full Stack Developer"
-
-        self.brain_stack = {
-            "languages": ["Python", "C#", "JavaScript"],
-            "backend": ["ASP.NET Core", "SQL Server", "MySQL"],
-            "ai_engineering": [
-                "Machine Learning",
-                "Deep Learning",
-                "Computer Vision",
-                "NLP"
-            ],
-            "cloud": ["Azure AI", "Cloud Computing", "LLMs"]
-        }
-
-        self.mission = """
-        Design intelligent systems that learn, adapt,
-        and deliver real-world impact through AI.
-        """
-
-    def activate(self):
-        return "Neural System Online 🚀"
